@@ -62,7 +62,7 @@ var BASE_STYLES = {
     position: 'absolute',
     top: STATUS_BAR_HEIGHT,
     right: 0,
-    left: SCREEN_WIDTH,
+    left: 0,
     overflow: 'hidden',
     opacity: 1,
     alignItems: 'flex-end',
